@@ -39,24 +39,27 @@ A simple, responsive training institute website built with HTML, Bootstrap 5 and
 **Screenshots:**
 
 HOME PAGE
-<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/751dfbae-5633-4623-bfc3-c63b75e630df" />
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/4b9b32b3-9ec3-4bc6-b9df-b46db6949746" />
+<img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/f4748c4e-f8eb-47a8-a13d-d954279a8f8c" />
 
-<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/1c5eaff9-385d-41b6-8e47-745dfe986e49" />
 
 
 REGISTRATION PAGE
-<img width="1901" height="959" alt="image" src="https://github.com/user-attachments/assets/4743162b-80a7-4149-9d2d-6a418a5757ec" />
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/616f6e19-7012-4fba-bc78-3c7e6a041d82" />
+
 
 
 COURSES PAGE
-<img width="1920" height="948" alt="image" src="https://github.com/user-attachments/assets/f469281d-1f4a-447d-aad6-803f4efe1ef2" />
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/888683bd-1cfa-4232-9aa5-5e456a1555f7" />
+<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/e721fd88-09dc-46ef-82e2-465ce7d4d48e" />
 
-<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/d457af5a-667b-4594-8e3b-a9f158e3a57e" />
 
 
 ABOUT US PAGE
-<img width="1915" height="955" alt="image" src="https://github.com/user-attachments/assets/43ed2226-d9d9-4829-88dd-e63efef226b1" />
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/c1d20b0a-4861-4c8f-b532-6fde6e6f513f" />
+
 
 
 CONTACT US PAGE
-<img width="1917" height="947" alt="image" src="https://github.com/user-attachments/assets/4daa7548-8c0c-4548-b716-d125f26df9ca" />
+<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/3e3a45bd-6290-4d7d-a8f3-ba62a88927f8" />
+
